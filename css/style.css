@@ -8,7 +8,7 @@
   line-height: 200px;
 }
 
-.back-pink .container {
+.back-pink .col-6 .container {
   background-color: #ff6781;
   margin: 10px;
 }

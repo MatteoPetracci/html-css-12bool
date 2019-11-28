@@ -1,15 +1,15 @@
 .debug {
-  
+
 }
 
 .debug .container {
   border: 1px solid green;
-  height: 200px;
+  /* height: 200px; */
 }
 
 .debug [class*="col-"] {
   border: 1px  solid grey;
-  height: 200px;
+  /* height: 200px; */
 }
 
 * {
