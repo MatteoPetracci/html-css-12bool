@@ -8,7 +8,7 @@
 }
 
 .debug [class*="col-"] {
-  border: 3px  solid grey;
+  border: 2px  solid grey;
   height: 200px;
 }
 
